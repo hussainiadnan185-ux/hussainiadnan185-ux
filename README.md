@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi 👋, I'm Syed Murtuza Hussaini
+🎓 B.E. Artifical Intelligence and Machine Learning
+📍 Hyderabad, Telangana, India
+about me
+I am an aspiring Data Analyst focused on understanding how businesses make money by analyzing sales, products, pricing, and performance data.
+🧰 Technical Skills
+Languages
+Python SQL(MYSQL) 
 
-<!--
-**hussainiadnan185-ux/hussainiadnan185-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Libraries
+Pandas 
 
-Here are some ideas to get you started:
+Tools
+Power BI Excel Jupyter Git GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Portfolio Projects
+🛒 Retail Sales, Product & Regional Performance Analysis
+
+Analyzed retail order data to identify top-selling products, high-revenue regions, category performance, and monthly sales trends using Python and MySQL.
+🔗 
+
+🚲 Bike-Sharing Revenue & Profitability Analysis
+
+Built revenue, cost, and profit models using SQL and Power BI to evaluate rider trends and business profitability over time.
+🔗 [View Project]
+
+🛍️ Zepto Retail Inventory & Pricing Analysis
+
+Analyzed Zepto’s product catalog using Python and SQL to examine pricing, discounts, category mix, and inventory structure.
+🔗 [View Project]
+
