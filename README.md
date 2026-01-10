@@ -37,7 +37,6 @@ I build end-to-end projects:
 - Power BI  
 - Excel  
 - Jupyter Notebook
-- Kaggle 
 - Git & GitHub  
 
 ---
