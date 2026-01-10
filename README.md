@@ -26,14 +26,18 @@ I build end-to-end projects:
 **Languages**  
 - Python  
 - SQL (MySQL)
+- DAX
 
 **Libraries**  
-- Pandas  
+- Pandas
+- SQLAlchemy
+- PyMySQL 
 
 **Tools**  
 - Power BI  
 - Excel  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Kaggle 
 - Git & GitHub  
 
 ---
