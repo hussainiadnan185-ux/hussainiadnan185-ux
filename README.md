@@ -43,7 +43,7 @@ I build end-to-end projects:
 
 ## 📂 Portfolio Projects  
 
-### 🛒 Retail Sales, Product & Regional Performance Analysis  
+### 🛒 Retail Order - Sales, Product & Regional Performance Analysis  
 **Business Question:**  
 Which products, categories, and regions generate the most revenue and profit?
 
