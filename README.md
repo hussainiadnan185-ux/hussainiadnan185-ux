@@ -103,4 +103,4 @@ My focus is on companies where data decides:
 ## 📬 Contact  
 
 📧 Email: hussainiadnan185@gmail.com  
-🔗 GitHub: https://github.com/hussainiadnan185-ux  
+🔗 Linkedin: https://linkedin.com/in/syed-murtuza-hussaini-r304  
